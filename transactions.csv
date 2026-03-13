@@ -1,0 +1,4 @@
+timestamp,user_id,action,amount,note
+2026-03-10 22:18:32,U001,ACCOUNT_CREATED,30.0,Account created for Esraa Mohamed
+2026-03-10 22:19:52,U001,DEPOSIT,50.0,
+2026-03-10 22:20:16,U001,ACCOUNT_DELETED,0,Account deleted
